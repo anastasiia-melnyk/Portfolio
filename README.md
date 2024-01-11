@@ -10,6 +10,7 @@
 - [Tools](https://github.com/anastasiia-melnyk/Portfolio/blob/main/README.md#tools)
 
 ### Test Design
+    In this section, you will find examples that demonstrate my expertise in using test design techniques to create comprehensive test cases that provide thorough coverage of software functionality.
 ### Test Documentation
 ### Bug Reports
 ### API
